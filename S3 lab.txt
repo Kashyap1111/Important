@@ -1,0 +1,26 @@
+S3
+______________________________________
+
+*create bucket 
+
+block the public network, if we are disable the block public then we access any every 
+from the internet
+
+
+
+*Bucket Versioning
+
+Keeping different version of the file,
+
+File (delete marker on it )
+
+if we remove the delete marker --> you are recovering the file.
+if we want to remove all version 
+
+Lifecycle of storage
+
+
+
+
+
+

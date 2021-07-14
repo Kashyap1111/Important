@@ -1,0 +1,10 @@
+I am : User & Group 
+
+I am = Identity and access manager Global service
+Root accont created by default shouldn't be user or shared 
+user are people within your organization and can be gr
+
+IAM Roles for services
+
+Some AWS services will need to perform action on your behalf
+to do so we will assign permissions to AWS services with IAM roles 

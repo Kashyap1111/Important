@@ -1,0 +1,5 @@
+User
+
+Root User -- the one
+
+with help of iAm we can create user in AWS

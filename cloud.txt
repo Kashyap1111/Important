@@ -1,0 +1,22 @@
+DataCentre.
+
+A Data center is a physical facility that organization use to 
+their critical
+
+A data center is facility that centralizes an organization 
+shared IT operations and equipment for the purpose of storing
+processing, and distributing data and application
+
+Virtualization and it's need.
+
+What is the virtualization
+Virtualization is technology that transforms hardware into software
+
+hypervisor
+
+were AWS 
+
+
+
+
+

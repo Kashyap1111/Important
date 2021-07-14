@@ -1,0 +1,21 @@
+Terraform : infrastucture as code 
+
+to connect to your aws services/portal/api
+
+ AWS management console acces (username/password)
+ AWS programatic access (access key and secret key) --terraform.
+ AWS IAM role
+ 
+
+provider "aws" {
+     profile = "default"
+     regain  = "ap south-1"
+}
+
+resource "aws_instance" "myec2" {
+
+AMI           = "ami-0ad704c126371a549"
+
+Instance type = "t2.micro"
+
+

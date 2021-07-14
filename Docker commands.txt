@@ -1,0 +1,26 @@
+docker images --------------> To see the what ever the images which is avaliable in server
+
+To exit from the conatiner -> exit or CRTL+P+Q
+
+docker ps ------- print the running containers
+
+docker ps -a --> it will print both running as well as stopped container
+
+docker pull ----> pulling the image from the registry
+
+docker push --> push the image from local to docker registry
+
+docker run ---> to create the containers
+
+docker run -it -d --name devops23 nginx
+
+docker rm ----> is uesed to remove the stopped container
+
+docker stop       ---------> is used to stop the container 
+docker strat       -------> To strat the container
+
+
+to login inisde the docker container ----> docker exec 
+
+
+docker run -it -d -p 80:80 nginx /bin/bash

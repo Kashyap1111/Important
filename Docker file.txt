@@ -1,0 +1,18 @@
+Docker file
+
+--From --- Base images,
+--Run  --- for installing any of the linux application and utilises
+--CMD  --- default executable for the container, while create container we can overwrite
+--entrypoint---->  it's used for container configuration it's not allowed to overwrite
+--Copy ---- .  it'copy file from the host OS to image while building the docker image
+--ADD ------>  it have extra feature to download some thing from the internet--  --Env ------>  setting up the environement variables 
+--expose----->  it's use to expose the ports
+--workdir ----> it will setup the work directory.
+--volume -----> default container mount point
+--user -------> having feature on which user we have build our instruction  
+--ARG ------  > Build arguments 
+--LABEL -----> Provide the naming covention.
+--Onbuild ---->
+
+
+

@@ -1,0 +1,22 @@
+Docker - containerized
+
+tool -------------------
+
+why docker...
+
+docker-containerized
+
+VMvare
+aq
+
+20(major).10(minor).6(micro).1(hot fixed) ---------------- 
+
+major 
+minor
+micro
+hot-fixed
+
+read 4 
+write 2
+execute 1
+

@@ -1,0 +1,60 @@
+1 . Create a new volume of size 5GB, also encrypt the volume with default key.
+2 . Attaching the volume with the ec2 instance. Note( for attaching EC2 instance and 
+    EBS volume in same AZ then we can able at attach the volume to the instance)
+3 . increasing the size of the volume.
+4 .  Create a snapshot
+5 .  Detaching the volume and deleting it.
+6 . Create a volume from a snapshot
+
+______________________________________________________________
+
+AMIs ( Amazon machine images) image.
+
+operatoring system,
+
+Amazon Linux.
+Ubuntu.
+etc...........
+
+what is AIMS,
+
+We have windows 10 + packages (some antivirus etc...........)
+
+____take a backup/copy of this machine itself (all volume and other related things)
+
+we can create a new machine with the backup of {orignal machine+packages } --AMI
+
+AMI-----------
+
+UAT, QA , STAGING ENV ( Lower env ) --> backup of servers  for 30days 
+
+PROD --> 90days in mumbai region also we keep the AMI's  in singapore for 90 days.
+
+
+
+
+Automation scripts are there to do the AMI creating and removal after certain period.   
+
+two type of storage istances.
+
+EBS and instance storage.
+
+intances is not presistent we can't stop and the volume.
+EBS volume is presistent we can stop the volume and we can do backup in another location
+
+Load balances.
+
+Application Load Balancer : it's work on layer 7 
+Network load balancer : it's work on layer 4 
+Classic load balancer : it's works on layer 7(http and https) and tcp layer 4
+Gateway loadbalancer : Newly introduced and launched in few regions only 
+
+
+
+
+
+
+
+ 
+
+

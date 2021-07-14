@@ -1,0 +1,30 @@
+Home Directory of docker: /var/lib/docker
+docker info - basic details for docker 
+Docker log location: var/log
+configuration : etc/docker
+we need change any default configurtion we need change in deamon.json location : etc/docker
+
+Docker archiecture
+Docker cli    : Client 
+Docker Daemon : Host , docker engin 
+Docker regiter : what are image we will storage all the image in docker regiter.
+
+what is container :
+A way to package application all the necessary dependencies and configuration
+portable artifact easily shared and moved around
+makes developments and deploment more efficient
+containers live in containers repository
+so many company have there private repositories
+public repository for docker containers : DockerHub
+
+What is Image in docker :
+A Docker image is a file used to execute code in a Docker container. 
+Docker images act as a set of instructions to build a Docker container, like a template.
+Docker images also act as the starting point when using Docker. 
+An image is comparable to a snapshot in virtual machine (VM) environments.
+
+
+
+
+ 
+
